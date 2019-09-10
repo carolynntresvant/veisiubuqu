@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eimeinohj.modeloos.nl/sitemap.xml
